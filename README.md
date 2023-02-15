@@ -2,7 +2,7 @@
 
 Client-server file transfer using socket.
 
-Saijayanth Chidirala - 2649 6282
+Saijayanth Chidirala
 
 
 ## Usage
