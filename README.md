@@ -1,6 +1,6 @@
-# Project 1 - Computer Networks
+# File transfer - Computer Networks
 
-Client-server file transfer using socket.
+Client-server segmented file transfer using socket.
 
 Saijayanth Chidirala
 
